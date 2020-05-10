@@ -52,8 +52,8 @@ window.addEventListener("load", function() {
 
     // Create event handlers 
     fltrbutton.on("click", filterTable);
-    //srchDate.addEventListener("change", filterTable);
-    //srchShape.addEventListener("change", filterTable);
+    srchDate.addEventListener("change", filterTable);
+    srchShape.addEventListener("change", filterTable);
     srchState.addEventListener("change", filterTable);
     clrbutton.on("click", clearSearch);
 
