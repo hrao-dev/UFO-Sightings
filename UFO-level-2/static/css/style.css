@@ -133,8 +133,15 @@
     }
     
     select {
+        align-self: center;
         background-color: #405d27; // color of the selected option
         color: #32CD32 !important;
+        font-size: smaller;
+        border: 2px solid #32CD32 !important;
+    }
+    
+    .country-select {
+        transform: translate(-5%, 0) !important;
     }
     
     select:focus,
@@ -144,11 +151,6 @@
     
     select option {
         color: black; // color of all the other options
-    }
-    
-    .state-select {
-        font-size: smaller;
-        border: 2px solid #32CD32 !important;
     }
     
     #table-area {
@@ -241,6 +243,9 @@
         #table-area td {
             font-size: 1em;
         }
+        select {
+            text-align: center;
+        }
     }
     
     @media (max-width: 500px) {
@@ -276,6 +281,9 @@
             font-weight: bold;
             text-align: center;
             content: attr(data-th);
+        }
+        select {
+            text-align: center;
         }
         .hero h1 {
             animation: smaller-title 1.2s forwards linear;
