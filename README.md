@@ -8,14 +8,14 @@
   
 ### Level 1: Automatic Table and Date Search A custom HTML web page.
  
-  The live deployed webpage can be found here: [UFO Sightings - Level 1](https://github.com/hrao-dev/hrao-dev.github.io/tree/master/UFO%20Sightings/UFO-level-1/index.html)
+  The live deployed webpage can be found here: [UFO Sightings - Level 1](https://github.com/hrao-dev/hrao-dev.github.io/blob/master/javascript-challenge/UFO-level-1/index.html)
 
 * Using the UFO dataset provided in the form of an array of JavaScript objects, a table is dynamically appended to the web page and then adds new rows of data for each UFO sighting.
 * An input form is provided for the user (to specify a date), that will listen for events and search through the dataset  to find data that match user input.
     
 ### Level 2: Multiple Search Categories
 
-  The live deployed webpage can be found here: [UFO Sightings - Level 2](https://github.com/hrao-dev/hrao-dev.github.io/tree/master/UFO%20Sightings/UFO-level-2/index.html)
+  The live deployed webpage can be found here: [UFO Sightings - Level 2](https://github.com/hrao-dev/hrao-dev.github.io/blob/master/javascript-challenge/UFO-level-2/index.html)
 
   The user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
    * date/time 
