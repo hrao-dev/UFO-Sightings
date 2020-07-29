@@ -1,6 +1,6 @@
 # UFO Sightings 
 
- A responsive webpage to visualize the collection of all the reported UFO sightings using JavaScript, HTML5, CSS3 and D3.js. 
+ A responsive web application to visualize the collection of all the reported UFO sightings using JavaScript, HTML5, CSS3 and D3.js. 
  The report data from the dataset is presented dynamically in a table format and users can filter the table data for specific values based on search criteria.
 
   
